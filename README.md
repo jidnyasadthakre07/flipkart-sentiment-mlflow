@@ -247,8 +247,8 @@ This project is deployed using **Streamlit on Hugging Face Spaces**.
 ## 👩‍💻 Author
 
 **Jidnyasa Thakre**
-- 🔗 LinkedIn: www.linkedin.com/in/kusuma-kumari-bodduluri
-- 💻 GitHub: https://github.com/kusuma990/Flipkart_Sentiment_MLflow
+- 🔗 LinkedIn: https://www.linkedin.com/in/jidnyasathakre/
+- 💻 GitHub: https://github.com/jidnyasadthakre07
 - 🤗 Huggingface: https://huggingface.co/spaces/Kusuma990/Flipkart_Sentiment_Anlysis_MLflow
 
 ---
