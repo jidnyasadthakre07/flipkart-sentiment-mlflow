@@ -127,17 +127,12 @@ MLflow is used for:
 * 📌 Logging metrics (F1 Score)
 * 📌 Saving trained models
 
-### ▶️ Run MLflow UI
+----
 
-```
-mlflow ui
-```
+## 🌐 Live Demo
 
-Open in browser:
-
-```
-http://127.0.0.1:5000
-```
+👉 Hugging Face Deployment:
+https://huggingface.co/spaces/Jidnyasa11/flipkart-sentiment-analysis
 
 ---
 
@@ -249,10 +244,5 @@ This project is deployed using **Streamlit on Hugging Face Spaces**.
 **Jidnyasa Thakre**
 - 🔗 LinkedIn: https://www.linkedin.com/in/jidnyasathakre/
 - 💻 GitHub: https://github.com/jidnyasadthakre07
-- 🤗 Huggingface: https://huggingface.co/spaces/Kusuma990/Flipkart_Sentiment_Anlysis_MLflow
 
 ---
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub and share it!
